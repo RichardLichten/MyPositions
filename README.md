@@ -6,6 +6,4 @@ Can be used as it is or changed however you like; e.g. add other picture formats
 
 Please see "manual" / help screen for useage.
 
-C.Knapp
-
 
